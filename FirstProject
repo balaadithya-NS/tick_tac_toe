@@ -1,0 +1,19 @@
+Tic-Tac-Toe
+
+A simple Tic-Tac-Toe game built with Python.
+
+This was my first-ever programming project, created when I was just starting to learn programming. Some parts of the game are unfinished and I don't currently plan to complete them.
+
+Technologies Used
+
+- Python
+- Tkinter
+- Random
+- Datetime
+- JSON
+- JSON Decoder
+- MySQL (planned, but not implemented)
+
+Feel free to use or modify the code if you find it useful.
+
+This project is mainly kept as a record of my early programming journey and learning progress.
